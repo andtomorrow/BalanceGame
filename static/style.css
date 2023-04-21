@@ -1,3 +1,23 @@
 .custom-input-form {
     width: 40rem;
 }
+
+.card-shadow {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.card-img-top {
+    height: 25rem;
+    object-fit: cover;
+}
+
+.custom-crsl-img-size {
+    height: 15rem;
+}
+
+.caption-with-bg-color {
+    background-color: rgba(35, 35, 36, 0.817);
+    background-blend-mode: screen;
+    border: 0;
+    border-radius: 5px;
+}
